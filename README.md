@@ -10,3 +10,6 @@ The homepage contains an interactive image slider that automatically changes ima
 **Project Highlights**
 
 This website is fully responsive and works on mobile, tablet, and desktop devices. It includes modern UI design with animations, gradients, and glassmorphism effects.It provides a smooth user experience with interactive features like filtering, searching, and dynamic content rendering.
+
+**Visit Website**
+https://pateldiyanshee-arch.github.io/Tourism-website/
